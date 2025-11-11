@@ -1,0 +1,11 @@
+C:\Users\azahi\source\repos\sayiKontrol\sayiKontrol\obj\Debug\sayiKontrol.csproj.AssemblyReference.cache
+C:\Users\azahi\source\repos\sayiKontrol\sayiKontrol\obj\Debug\sayiKontrol.Form1.resources
+C:\Users\azahi\source\repos\sayiKontrol\sayiKontrol\obj\Debug\sayiKontrol.Properties.Resources.resources
+C:\Users\azahi\source\repos\sayiKontrol\sayiKontrol\obj\Debug\sayiKontrol.csproj.GenerateResource.cache
+C:\Users\azahi\source\repos\sayiKontrol\sayiKontrol\obj\Debug\sayiKontrol.csproj.CoreCompileInputs.cache
+C:\Users\azahi\source\repos\sayiKontrol\sayiKontrol\bin\Debug\sayiKontrol.exe.config
+C:\Users\azahi\source\repos\sayiKontrol\sayiKontrol\bin\Debug\sayiKontrol.exe
+C:\Users\azahi\source\repos\sayiKontrol\sayiKontrol\bin\Debug\sayiKontrol.pdb
+C:\Users\azahi\source\repos\sayiKontrol\sayiKontrol\obj\Debug\sayiKontrol.exe
+C:\Users\azahi\source\repos\sayiKontrol\sayiKontrol\obj\Debug\sayiKontrol.pdb
+C:\Users\azahi\source\repos\sayiKontrol\sayiKontrol\obj\Debug\sayiKontrol.exe.config
